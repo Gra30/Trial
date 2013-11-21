@@ -2,6 +2,6 @@
 public class Reminder {
 
 	public void print(){
-		System.out.println();
+		System.out.println("hi");
 	}
 }
