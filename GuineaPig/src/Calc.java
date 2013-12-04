@@ -5,7 +5,7 @@ public class Calc {
 		int r = 545;
 		x = x + r;
 		z = z / x;
-		z = z + y + 3;
+		z = z + 3;
 		return z * y;
 	}
 }
