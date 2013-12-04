@@ -1,3 +1,4 @@
+import java.util.*;
 public class Calc {
 
 	public int mul(int z, int y){
