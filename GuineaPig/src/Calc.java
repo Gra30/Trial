@@ -3,7 +3,7 @@ public class Calc {
 
 	public int mul(int z, int y){
 		int x = 14;
-		int r = 545;
+		int r = 55;
 		x = x + r;
 		z = z / x;
 		z = z + y + 3;
